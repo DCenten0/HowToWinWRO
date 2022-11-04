@@ -8,3 +8,11 @@
 
 First that all we need to star is talk about the hardware. Let's start talking about the "Brick" the brick is all the microprocessor that had 4 input port (1,2,3,4) and 4 Output ports (A, B, C, D), whith the brick we can program and control the entire robot. The processor that the Lego Mindstorms used is an ARM9 CPU running Linux.  
 
+The display of the brick show you all the brick interface. In this intercafe you have 4 section:
+- Section One: All the last programs that you were run.
+- Section two: All the directories that contain all your files of your program.
+- Section three: 
+- Section four: 
+
+The display can also be programmed to show information about the sensors, the motors, numbers, strigns until you can show a happy face in the display. 
+
