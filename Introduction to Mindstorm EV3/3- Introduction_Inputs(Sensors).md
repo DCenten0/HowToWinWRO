@@ -30,14 +30,14 @@ Here you can see the colour and light data table:
     <td>Numeric</td>
     <td>0-7</td>    
     <td>
-        0 = No Colour,
-        1 = Black,
-        2 = Blue,
-        3 = Green,
-        4 = Yellow,
-        5 = Red,
-        6 = White,
-        7 = Brown    
+        <p>0 = No Colour</p>
+        <p>1 = Black</p>
+        <p>2 = Blue</p>
+        <p>3 = Green</p>
+        <p>4 = Yellow</p>
+        <p>5 = Red</p>
+        <p>6 = White</p>
+        <p>7 = Brown</p>
     </td>
     
   </tr>
