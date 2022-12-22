@@ -64,8 +64,182 @@ The block will calculate the Result based on the Inputs, as shown in this table.
 
 **Here I give you a Truth Tables of every possible output using every mode:**
 
+- **AND Gate**
 
+<table>
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>A.B</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>    
+  </tr>
+  
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>  
+  </tr>
+  
+</table>
 
+- **OR Gate**
 
+<table>
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>A.B</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>    
+  </tr>
+  
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>  
+  </tr>
+  
+</table>
 
+- **XOR Gate**
 
+<table>
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>A.B</th>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>    
+  </tr>
+  
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>1</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>1</td>
+    <td>0</td>  
+  </tr>
+  
+</table>
+
+- **NOT Gate**
+
+<table>
+  <tr>
+    <th>A</th>
+    <th>NOT A</th>
+  </tr>
+  
+  <tr>
+    <td>0</td>
+    <td>1</td>  
+  </tr>
+  
+  <tr>
+    <td>1</td>
+    <td>0</td>  
+  </tr>
+  
+</table>
+
+<h2>Math Block:</h2>
+
+![MathBlock](https://user-images.githubusercontent.com/101992463/209078447-ba68489c-0c95-4070-a539-cb48cc311aea.PNG)
+
+The Math block does a math calculation on its inputs, and outputs the result.
+
+You can do a simple math operation with one or two inputs, or enter a formula with up to four inputs.
+
+Choose the math operation you want to use by selecting a mode with the Mode Selector.
+
+After selecting the mode, you can choose values for the inputs. The inputs available will change depending on the mode.
+
+If you want to do a more complicated equation you can use the advanced mode and introduce your equation. 
+
+<h2>Round Block:</h2>
+
+![RoundBlock](https://user-images.githubusercontent.com/101992463/209078997-2906571d-37c7-466e-a67c-3c5ac0b20cdf.PNG)
+
+The Round block rounds a decimal number to an integer value.
+
+- You can round a number up, down, or to the nearest integer.
+- You can also truncate a number to a certain number of decimal places.
+ 
+Use the Mode Selector to choose the type of rounding to use.
+
+<h2>Compare Block:</h2>
+
+![CompareBlock](https://user-images.githubusercontent.com/101992463/209079448-5e352a25-7471-4bd0-9197-5f96c99d3ee4.PNG)
+
+The Compare block compares two numbers to find out whether they are equal, or which number is greater. You can choose one of six different comparisons.
+
+The output result is True or False.
+
+<h2>Range Block:</h2>
+
+![RangeBlock](https://user-images.githubusercontent.com/101992463/209079818-5b867536-2308-416a-b8f9-b1f9ffac7df4.PNG)
+
+The Range block tests whether a number is inside or outside a specified numerical range.
+
+The Result will be set to True or False, based on the result of the comparison.
+
+<h2>Text Block:</h2>
+
+![TextBlock](https://user-images.githubusercontent.com/101992463/209080149-815c4c31-df77-418b-8a0a-e1986a640781.PNG)
+
+The Text block can combine up to three text strings into one text string.
+
+You can utilize this block to show information on the screen. 
+
+<h2>Random Block:</h2>
+
+![RandomBlock](https://user-images.githubusercontent.com/101992463/209080566-5c7e0927-ae83-4f5e-9086-cd878a48766e.PNG)
+
+The Random block can output a random Numeric or Logic value.
+
+- In the numeric mode you select the limits to appear a number. 
+- With the logic mode you indicate the percentage of appearance of True. 
