@@ -65,5 +65,31 @@ The Raw Sensor Value block outputs the unprocessed sensor reading, which is a va
 
 The block is too powerful if you know how to use it because if you don't have the best sensor as they are "HiTechnic color sensor" (This color sensor is the unique sensor permitted in the competition that is not an official LEGO sensor product) you can use this block to read with more precision the value of a color creating new limits of reflection. I am going to talk more deeply about how to read with more precision using this method. 
 
-<h2>Raw Sensor Value Block:</h2>
+<h2>Unregulated Motor Block:</h2>
+
+![UnregulatedMotorBlock](https://user-images.githubusercontent.com/101992463/209299310-443eb515-d218-4510-9125-3db9d0b3cd8c.PNG)
+
+With this block you can control both motor medium or large, you only need to indicate the port (A, B, C, D) and the power. 
+
+<h2>Invert Motor Block:</h2>
+
+![InvertMotorBlock](https://user-images.githubusercontent.com/101992463/209299871-97b799e2-74ac-4f9e-92cc-741ece98929e.PNG)
+
+The Invert Motor block changes the direction of rotation of a motor. When you invert a motor direction, a programming block that would normally make the motor turn clockwise will make the motor turn counter-clockwise instead.
+
+You only need to indicate the port of the motor that you want to invert. 
+
+<h2>Stop Block</h2>
+
+The Stop Program block immediately terminates all programming block sequences and ends the program.
+
+You can put a Stop Program block at the end of any sequence in your program, including sequences that appear inside a Switch, Loop, or My Block. If the Stop Program block is reached and executes, the entire program will end.
+
+**The stop block is not necessary if you have a sequence program because the program ends automatically but if you want to add it you can do it without any problem.**
+
+<h2>Comment Block</h2>
+
+![CommentsBlock](https://user-images.githubusercontent.com/101992463/209300661-85f211b9-4360-4713-9d79-59b9b222b56b.PNG)
+
+The comment block allows you to insert short commentaries that do not affect any process of the program. It is really useful to know where to begin a process and describe how it works.
 
