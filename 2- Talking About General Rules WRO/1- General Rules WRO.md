@@ -36,10 +36,9 @@ General aspect and limitation to create a team.
   * Elementary: students 8-12 years old
   * Junior: students 11-15 years old
   * Senior: 14-19 years old
- 
-And this is a little bit of the most important aspect, the general rules of the competition making focus on the things that I considered more important. If you want to know more about the WRO rules you can obtain more information here. 
 
-
+<p>And this is a little bit of the most important aspect, the general rules of the competition making focus on the things that I considered more important. If you want to know more about the WRO rules you can obtain more information <a href="https://wro-association.org/" title="WebSiteWRO">
+Here.</a></p>
 
 
 
