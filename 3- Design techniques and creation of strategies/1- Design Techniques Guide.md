@@ -26,7 +26,13 @@ In this part I going to show you a list of recommendations for create a good des
 
 * Perform performance tests and debug the robot before the competition to ensure its proper functioning. Knowing the last recommendation that I said you you can to use the extra time to calibrate and debug your robot.
 
+I recommend you to see videos of the best teams in the last WRO competitions because you can see something peculiar in these videos because all the robots have a similar design that become super efficient to solve the challenge. If you can see the center of gravity of these robots are low, this produce a better traction in the field, having a better field traction you can move faster and realize more precises moves. 
 
+Here I give you some of the best teams and faster robot videos as examples:
+
+* Channel: TESSLAB ROBOTICS "WRO 2019 SENIOR HIGH (50s)": https://www.youtube.com/watch?v=G8V-l0ZjWTI 
+* Channel: Lev Kozlov "WRO 2019 FINAL Senior High 56 sec": https://www.youtube.com/watch?v=TIjWcF2lpy4
+* Channel: MadRobots "WRO 2019 FINAL - Senior High / Missions": https://www.youtube.com/watch?v=ntWOTt3IdJc
 
 
 
